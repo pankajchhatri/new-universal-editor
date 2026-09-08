@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/pankajchhatri/new-universal-editor/main"
+    url: "https://author-p121056-e1601802.adobeaemcloud.com/bin/franklin.delivery/pankajchhatri/new-universal-editor/main"
     type: "markup"
     suffix: ".html"
