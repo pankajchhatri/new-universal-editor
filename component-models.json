@@ -348,5 +348,40 @@
         ]
       }
     ]
+  },
+  {
+    "id": "video",
+    "fields": [
+      {
+        "component": "aem-content",
+        "name": "video",
+        "label": "Video URL"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "poster",
+        "label": "Poster Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "posterAlt",
+        "label": "Poster Alt Text",
+        "value": ""
+      },
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "label": "Options",
+        "options": [
+          {
+            "name": "Autoplay",
+            "value": "autoplay"
+          }
+        ]
+      }
+    ]
   }
 ]
